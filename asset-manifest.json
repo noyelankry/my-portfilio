@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.722445fb.css",
+    "main.js": "/static/js/main.5c3c23f9.js",
+    "static/media/todolist.png": "/static/media/todolist.2438d09f483a8fad3218.png",
+    "static/media/logo3.PNG": "/static/media/logo3.763e5b8ad28dd186813e.PNG",
+    "static/media/fetchMusic.png": "/static/media/fetchMusic.60827784437f4bd7a970.png",
+    "static/media/cardsDeck.jpeg": "/static/media/cardsDeck.742b50c6e929bbe9a4cd.jpeg",
+    "static/media/linux.png": "/static/media/linux.3db32b955e9b61f35998.png",
+    "static/media/raspberrypi.png": "/static/media/raspberrypi.82804a2c345a9c54be2c.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/cpp.png": "/static/media/cpp.24a8f93854ab092f17a7.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.722445fb.css.map": "/static/css/main.722445fb.css.map",
+    "main.5c3c23f9.js.map": "/static/js/main.5c3c23f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722445fb.css",
+    "static/js/main.5c3c23f9.js"
+  ]
+}
