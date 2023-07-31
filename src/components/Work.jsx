@@ -1,7 +1,7 @@
 import React from 'react'
 import ToDoList from '../assets/todolist.png'
 import fetchMusic from '../assets/fetchMusic.png'
-import Cards from '../assets/cardsDeck.jpeg'
+import NbdArticle from '../assets/nbd_article.png'
 
 const Work = () => {
     return (
@@ -44,23 +44,19 @@ const Work = () => {
                         </div>
                     </div>
 
-                    <div style={{ backgroundImage: `url(${Cards})` }}
+                    <div style={{ backgroundImage: `url(${NbdArticle})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         {/* hover effects*/}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span>
                             </span>
                             <div>
-                                <a href="https://github.com/noyelankry/cards-deck" target='_blank'>
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                                </a>
-                                <a href="https://noyelankry.github.io/cards-deck/" target='_blank'>
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                                <a href="https://dev.to/noyelankry/understanding-nbd-linux-network-block-device-protocol-406k" target='_blank'>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Read article</button>
                                 </a>
                             </div>
                         </div>
                     </div>
-
                 </div>
 
             </div>
