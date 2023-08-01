@@ -2,7 +2,7 @@
   "name": "my-portfilio",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://noyelankry.github.io/my-portfilio/",
+  "homepage": "https://noyelankry.github.io/portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
